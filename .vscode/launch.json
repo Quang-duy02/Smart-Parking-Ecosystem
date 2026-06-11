@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Chay Tren Chrome (Tat Bao Mat CORS)",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--web-browser-flag",
+                "--disable-web-security"
+            ]
+        }
+    ]
+}
